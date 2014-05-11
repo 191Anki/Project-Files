@@ -1,0 +1,3 @@
+class Flashcards extend AppModel{
+
+}
